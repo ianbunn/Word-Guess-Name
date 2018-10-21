@@ -1,0 +1,21 @@
+body {
+    font-family: 'Unica One', sans-serif;
+}
+
+.jumbotron {
+    background-color: #4275bc; /* blue */
+    color: #ffffff; /* white */
+    z-index: 1;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#victory-message {
+    font-size: 2em;
+    background-color: #4275bc; /* blue */
+    color: white;
+    width:100%;
+}
+
+.image {
+    float: right;
+}
